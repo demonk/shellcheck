@@ -1,3 +1,5 @@
+PAGE：https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649444287&idx=1&sn=487d56de87b27c9ec3f7434b4e3d6e53&chksm=f3a26eccc4d5e7da47fcde6a22bb1a32d081d911902f2d54ca4fb61912fe5483edd60fa3f665&mpshare=1&scene=23&srcid=08097RntXDxSKQxdkVqEoxnx#rd
+
 # ShellCheck - A shell script static analysis tool
 
 ShellCheck is a GPLv3 tool that gives warnings and suggestions for bash/sh shell scripts:
